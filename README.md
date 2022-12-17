@@ -1,4 +1,16 @@
-# ESE-519-Final-Project
+# Customer-experience enhancement system!
+### By - Team Penn Dinosaurs ☘️
+
+## University of Pennsylvania, ESE 5190: Intro to Embedded Systems - Final Project
+    SATYAJEET DAS
+        LinkedIn: https://www.linkedin.com/in/satyajeet-das/
+    Soumya Dash
+	LinkedIn: https://www.linkedin.com/in/srd00/
+    Qiao Xu!
+	LinkedIn: https://www.linkedin.com/in/qiao-xu-b520a3249/
+    Tested on:DELL Inspiron 16 Plus (16-inch, 2022), Windows 11 Home 21H2
+
+
 Team Dino !
 
 Where are we?
