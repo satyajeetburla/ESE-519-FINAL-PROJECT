@@ -11,6 +11,12 @@
 
     Tested on:DELL Inspiron 16 Plus (16-inch, 2022), Windows 11 Home 21H2
 
+# Circuit Diagram of the elements of our Project:<br />
+
+# Gifs from our projects:<br />
+![LEVEL - 1](https://github.com/satyajeetburla/ESE-519-FINAL-PROJECT/blob/main/media/GIF/dino_level1%2000_00_00-00_00_30.gif)<br />
+
+
 
 Team Dino !
 
