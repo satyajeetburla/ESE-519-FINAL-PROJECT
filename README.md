@@ -11,6 +11,11 @@
 
     Tested on:DELL Inspiron 16 Plus (16-inch, 2022), Windows 11 Home 21H2
 
+# Project Architecture: <br />
+![alt text](https://github.com/satyajeetburla/ESE-519-FINAL-PROJECT/blob/main/media/triangle.png)<br />
+
+
+
 # Circuit Diagram of the elements of our Project:<br />
 ### Dino Game
 ![alt text](https://github.com/satyajeetburla/ESE-519-FINAL-PROJECT/blob/main/diagram/Circuit%20Diagram/Dino_Game_Ckt.png)<br />
