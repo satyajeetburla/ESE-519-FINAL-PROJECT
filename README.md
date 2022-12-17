@@ -47,15 +47,15 @@
 
 # Videos from our projects:<br />
 ### Dino - Game: Level - 1<br />
-[![Watch the video](https://github.com/satyajeetburla/ESE-519-FINAL-PROJECT/blob/main/media/Videos/dino_level1.mp4)
+[![Watch the video](https://github.com/satyajeetburla/ESE-519-FINAL-PROJECT/blob/main/media/images.jpg)](https://github.com/satyajeetburla/ESE-519-FINAL-PROJECT/blob/main/media/Videos/dino_level1.mp4)
 ### Dino - Game: Level - 2<br />
-[![Watch the video](https://github.com/satyajeetburla/ESE-519-FINAL-PROJECT/blob/main/media/Videos/dino_level2.mp4)
+[![Watch the video](https://github.com/satyajeetburla/ESE-519-FINAL-PROJECT/blob/main/media/images.jpg)](https://github.com/satyajeetburla/ESE-519-FINAL-PROJECT/blob/main/media/Videos/dino_level2.mp4)
 ### Dino - Game: Level - 3<br />
-[![Watch the video](https://github.com/satyajeetburla/ESE-519-FINAL-PROJECT/blob/main/media/Videos/Dino_Level3.mp4)
+[![Watch the video](https://github.com/satyajeetburla/ESE-519-FINAL-PROJECT/blob/main/media/images.jpg)](https://github.com/satyajeetburla/ESE-519-FINAL-PROJECT/blob/main/media/Videos/Dino_Level3.mp4)
 ### Pan - Tilt Person Decting & Following Camera<br /><br />
-[![Watch the video](https://github.com/satyajeetburla/ESE-519-FINAL-PROJECT/blob/main/media/Videos/Face%20detection.mp4)
+[![Watch the video](https://github.com/satyajeetburla/ESE-519-FINAL-PROJECT/blob/main/media/images.jpg)](https://github.com/satyajeetburla/ESE-519-FINAL-PROJECT/blob/main/media/Videos/Face%20detection.mp4)
 #### Customer Interaction - LCD & Speaker for Playing Songs<br />
-[![Watch the video](https://github.com/satyajeetburla/ESE-519-FINAL-PROJECT/blob/main/media/Videos/LCD_Speaker.mp4)
+[![Watch the video](https://github.com/satyajeetburla/ESE-519-FINAL-PROJECT/blob/main/media/images.jpg)](https://github.com/satyajeetburla/ESE-519-FINAL-PROJECT/blob/main/media/Videos/LCD_Speaker.mp4)
 
 Team Dino !
 
