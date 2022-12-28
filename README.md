@@ -46,6 +46,31 @@ To better reduce the safety concern and provide a reliable for the customer to t
 ### Customer Interaction - LCD & Speaker for Playing
 ![alt text](https://github.com/satyajeetburla/ESE-519-FINAL-PROJECT/blob/main/diagram/Circuit%20Diagram/Human_Interaction_System(LCD%2BSpeaker)_Ckt.png)<br />
 
+# Operations/Functionalities:<br />
+## 1. Dino Game:<br />
+Our aim in this game was to develop Google's Dino game using the Raspberry Pi Pico board, which has an RP2040 microcontroller.<br />
+
+The following features are included in this game:<br />
+1. It has three levels (level1 - easy, Level 2 - Medium, Level 3 - Hard). The difficulty at each level would rise in proportion to the increasing score.<br />
+2. The game has two sounds, one for the humping dino and the other when the “Game is Over” (Dinosaur crashes with the cactus and dies),  signifying that the user input of button press supplied by the Game player was successfully executed. Moreover, make the game more interactive. A speaker was employed for this reason.<br />
+3. It employs a VGA display to display all visuals on the monitor. We leveraged the PIO functionality of RP2040 to achieve this feat of running the VGA display using the tiny and cheap Pico. We used bitmaps to draw the shape of a dinosaur and different types of cacti.<br />
+4. For user interaction, we used a “glowing” big push button, for an interactive user experience.<br />
+5. We also created different high-score buffers for different levels. The aim was to keep track of the highest score achieved at each level. Moreover, to create a competition during the demo day to beat the highest score. This makes the game more user interactive and fun.<br />
+## 2. Person Detection:<br />
+This element of our project was utilized to recognize faces and shift the pan tilt to that direction dependent on the movement of the individual. This enables face tracking feature.<br />
+This work includes the following features:<br />
+1. It houses the Raspberry Pi Camera Module V2 on the Arducam Pan Tilt arrangement. This coordinated movement of servos and cameras enables the functionality of face tracking.<br />
+2. It identifies humans by using the openCV library and Machine Learning model “haarcascade_frontalface_default.xml” to detect faces and put a frame around them.
+3. Its pan tilt camera would move up/down and left/right based on the person's movement measuring the relative movement of the frame and trying to reduce the positional error by moving the servos and hence the camera. <br />
+
+## 3. Human Interaction Interface:<br />
+This portion of our project was leveraged to construct a user interactive interface like "Google Assistant".<br />
+
+This work includes the following features:<br />
+1. It asks the person's name.<br />
+2. It greets the user by name, asks if they want to listen to music, and suggests some songs.<br />
+3. It plays the music based on various interest filters.<br />
+
 
 # Photos of our final model:<br />
 ### Dino Game
