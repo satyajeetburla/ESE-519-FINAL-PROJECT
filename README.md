@@ -37,7 +37,6 @@ To better reduce the safety concern and provide a reliable for the customer to t
 ![alt text](https://github.com/satyajeetburla/ESE-519-FINAL-PROJECT/blob/main/media/triangle.png)<br />
 
 
-
 # Circuit Diagram of the elements of our Project:<br />
 ### Dino Game
 ![alt text](https://github.com/satyajeetburla/ESE-519-FINAL-PROJECT/blob/main/diagram/Circuit%20Diagram/Dino_Game_Ckt.png)<br />
@@ -71,6 +70,7 @@ This work includes the following features:<br />
 2. It greets the user by name, asks if they want to listen to music, and suggests some songs.<br />
 3. It plays the music based on various interest filters.<br />
 
+# Please find the detailed code and explaination here: https://github.com/satyajeetburla/ESE-519-FINAL-PROJECT/tree/main/code<br />
 
 # Photos of our final model:<br />
 ### Dino Game
